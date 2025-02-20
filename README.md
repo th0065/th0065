@@ -1,16 +1,13 @@
-## Hi there 👋
+🚀 TRAORE Harouna
+👨‍💻 Développeur Fullstack | Passionné par le code et l'innovation
 
-<!--
-**th0065/th0065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Technologies : Spring Boot 🏗️ | Angular ⚡ | Docker 🐳 | Kubernetes ☸️
+🖥️ Langages : HTML 🏷️ | CSS 🎨 | JavaScript ⚙️
+🗄️ Bases de données : MySQL 🐬 | SQL Server 🏢 | Oracle 🔶
+🎨 Design : Figma 🎭
 
-Here are some ideas to get you started:
+📫 Contactez-moi : 📧 tharouna@gmail.com
+🌍 Projets :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub 🐙
+GitLab 🦊
